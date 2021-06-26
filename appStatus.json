@@ -1,0 +1,12 @@
+{
+  "open": false,
+  "newOpen": false,
+  "appOpen":true,
+  "versionCode": 2021,
+  "appHint":"测试",
+  "openAd":false,
+  "rewardHint":"希望各位打赏一波鼓励鼓励，你们的鼓励就是我的动力，谢谢各位！",
+  "rewardNum":1,
+  "message":"禁止更新",
+  "messageNum":3
+}
